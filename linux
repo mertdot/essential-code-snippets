@@ -17,3 +17,6 @@ scp username@b:/path/to/file /path/to/destination
 instal aur packages in arch linux:
  makepkg -si //clone repository and cd into it than type this snippet.
 ----------------------------------------------------------------------
+Start sshd service on arch linux
+systemctl start sshd.service
+---------------------------------------------------------------------
