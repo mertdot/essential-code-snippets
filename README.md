@@ -62,8 +62,7 @@ To copy ssh public key easily:
 ```bash
 $ xclip -sel clip < ~/.ssh/id_rsa.pub
 ```
-###### See also: 
-[Documentation](https://linux.die.net/man/1/xclip)
+###### See also: [Documentation](https://linux.die.net/man/1/xclip)
 
 ## How to uninstall after "make install"
 This situation is my most faced one.If you want to get rid of some package that you installed with "make install", follow the lines:
