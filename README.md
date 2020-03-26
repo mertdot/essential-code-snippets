@@ -7,7 +7,7 @@
 ```bash
 $ systemctl start sshd.service
 ```
-### File transver over ssh
+### File transfer over ssh
 
 Syntax:
 
