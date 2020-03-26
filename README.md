@@ -3,11 +3,11 @@
 
 ## SSH
 
-# Start sshd service on arch linux
+### Start sshd service on arch linux
 ```bash
 $ systemctl start sshd.service
 ```
-# File transver over ssh
+### File transver over ssh
 
 Syntax:
 
@@ -26,14 +26,15 @@ To copy a file from B to A while logged into A:
 ```bash
 $ scp username@b:/path/to/file /path/to/destination
 ```
----------------------------------------------------------------------
-# Arch Linux
 
-#Instal aur packages in arch linux:
+
+## Arch Linux
+
+###  Instal aur packages in arch linux:
 
 ```bash
 $ makepkg -si //clone repository and cd into it than type this command
 ```
-----------------------------------------------------------------------
+
 
 
