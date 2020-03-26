@@ -87,6 +87,6 @@ sudo dpkg -r [PACKAGE_NAME_YOU_ENTERED]
 ```
 
 ###### See Also: 
-[Source](https://stackoverflow.com/a/50898839/13131549)
+[Source](https://stackoverflow.com/a/50898839/13131549),
 [Debian Wiki Page of CheckInstall](https://wiki.debian.org/CheckInstall), 
 [Homepage of CheckInstall](http://checkinstall.izto.org/index.php)
